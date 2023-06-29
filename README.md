@@ -27,6 +27,13 @@ A simple and easy to use Newsletter signup page that allow users to add themselv
     If the failure page is displayed user can click try again button and go back to the home page.
   </li>
   <li>
-    After signup information entered by the user gets added on the mailchimp server.
+    After signup, information entered by the user gets added on the mailchimp server.
+  </li>
+</ul>
+
+<h1>Tools Used</h1>
+<ul>
+  <li>
+    Used HTML5, CSS3, Bootstrap, Javascript, Node.js, Express.js, Mailchimp's API.
   </li>
 </ul>
